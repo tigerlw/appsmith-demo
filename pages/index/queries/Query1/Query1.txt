@@ -1,0 +1,1 @@
+SELECT * FROM t_allot_company_entity where currency_code={{name_in.text}}
